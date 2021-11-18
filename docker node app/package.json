@@ -1,0 +1,20 @@
+{
+  "name": "simple-node-app-using-docker",
+  "version": "1.0.0",
+  "description": "This a simple node application using docker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "docker",
+    "nodejs",
+    "express"
+  ],
+  "author": "Rakibul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
